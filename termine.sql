@@ -20,9 +20,7 @@ SET time_zone = "+00:00";
 --
 -- Datenbank: `termine`
 --
-
 -- --------------------------------------------------------
-
 --
 -- Tabellenstruktur für Tabelle `buchung`
 --
@@ -67,7 +65,6 @@ INSERT INTO `buchung` (`id`, `name`, `email`, `timeslot`, `date`) VALUES
 --
 -- Indizes der exportierten Tabellen
 --
-
 --
 -- Indizes für die Tabelle `buchung`
 --
